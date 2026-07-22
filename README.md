@@ -1,6 +1,6 @@
 # Hey there, I'm Bryce 👋
 
-AI Application & Agent Engineer
+AI Application & Agent Engineer 
 
 ---
 
